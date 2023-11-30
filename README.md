@@ -32,7 +32,7 @@ It was then imported into My SQL Sever Management Studio workbench to analyze da
   
 - The Rice Paper, Muffin-Banana nut individual & the Beef-Tenderloin tails are the products with the highest suppliers ranging from 782-813 suppliers.
 
-  ## QUERIES:
+ 
 
 
 
